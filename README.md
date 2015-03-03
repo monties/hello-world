@@ -1,3 +1,3 @@
 # hello-world
 this is my first repository
-from monties
+I'm from Taiwan, an island country just nearby China.
